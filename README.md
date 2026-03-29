@@ -68,3 +68,9 @@ enable_5161 = 1
 rgb_type = 1
 font = 0
 ```
+
+## Test disk
+A disk used to test the MINIX operating system is included (test-disk.86F).
+This is standard MINIX test disk with space freed up by removing source code
+and files that are not needed to run the tests. It's also in an MFM format,
+which was more stable for me.
